@@ -44,7 +44,7 @@ sudo systemctl status apache2
 
 ---
 
-📄 Étape 3 — Création de la page HTML exposée (Debian)
+📄 Étape 3 - Création de la page HTML exposée (Debian)
 
 Une page HTML de démonstration est créée afin de simuler une exposition de données sensibles.
 
@@ -61,7 +61,7 @@ Recharge du service Apache :
 
 sudo systemctl reload apache2
 
-🔍 Étape 4 — Test local de la page (Debian)
+🔍 Étape 4 - Test local de la page (Debian)
 
 On vérifie que la page est correctement servie par Apache côté serveur.
 
