@@ -61,6 +61,8 @@ Recharge du service Apache :
 
 sudo systemctl reload apache2
 
+---
+
 🔍 Étape 4 - Test local de la page (Debian)
 
 On vérifie que la page est correctement servie par Apache côté serveur.
