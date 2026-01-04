@@ -6,7 +6,7 @@
 
 <div align="center">
 
-© 2025 Virginie Lechene — Tous droits réservés  
+© 2025 Virginie Lechene - Tous droits réservés  
 Reproduction interdite sans autorisation préalable.  
 Usage pédagogique uniquement.
 
@@ -16,11 +16,11 @@ Usage pédagogique uniquement.
 
 <br><br>
 
-<i>Image protégée — Propriété exclusive</i>
+<i>Image protégée - Propriété exclusive</i>
 
 </div>
 
-
+---
 
 <p align="center">
 Exposition de données sensibles<br>
