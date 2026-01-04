@@ -53,6 +53,11 @@ sudo systemctl status apache2
 
 ➡ Apache est actif et prêt à servir du contenu.
 
+<p align="center">
+  <img src="apache-status-running.png" width="70%" />
+</p>
+
+
 ---
 
 📄 Étape 3 - Création de la page HTML exposée (Debian)   
