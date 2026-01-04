@@ -107,8 +107,8 @@ ls
 
 Le script est exécuté contre l’URL de la page exposée.   
 
-Commande utilisée :   
-python3 sensitive_mini.py http://192.168.100.10/sensitive_demo.html   
+Commande utilisée :   Commande utilisée :  
+`python3 sensitive_mini.py (http://192.168.100.10/sensitive_demo.html)`
 
 Résultats détectés :   
 	•	adresse e-mail   
