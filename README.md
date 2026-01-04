@@ -1,11 +1,5 @@
-# Sensitive Data Exposure – Environment Contrôlé
 
-![Check passwords](https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
-Projet de cybersécurité démontrant l’exposition de données sensibles
-dans un environnement contrôlé.
-
 
 <p align="center">
   <img src="cover-sensitive-data-exposure.PNG" alt="Sensitive Data Exposure Cover" width="80%">
