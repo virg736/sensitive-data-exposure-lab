@@ -25,7 +25,8 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 📄 Étape 1 - Vérification de la connectivité réseau
 
-Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.   
+Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.  
+
 ➡ICMP est un protocole réseau utilisé pour tester la connectivité entre deux machines, notamment via la commande `ping`.   
 
 ### Parrot → Debian
