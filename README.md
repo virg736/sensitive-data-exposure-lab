@@ -49,7 +49,7 @@ ping 192.168.100.20
 
  📄 Étape 2 - Vérification du serveur web (Debian)
 
-On vérifie que le service Apache est actif sur la machine cible.
+Cette étape permet de confirmer que le service Apache est actif sur la machine cible.
 
 sudo systemctl status apache2
 
@@ -88,7 +88,7 @@ sudo systemctl reload apache2
 
 📄 Étape 4 - Test local de la page (Debian)
 
-On vérifie que la page est correctement servie par Apache côté serveur.
+Cette étape permet de vérifie que la page est correctement servie par Apache côté serveur.
 
 `curl http://127.0.0.1/sensitive_demo.html`
 
@@ -98,7 +98,7 @@ On vérifie que la page est correctement servie par Apache côté serveur.
 
 📄 Étape 5 - Accès distant depuis Parrot OS
 
-On accède à la page exposée depuis la machine Parrot via le réseau interne.
+Un accés distant à la page exposée est réalisé depuis depuis Parrot OS via le réseau interne.
 
 Commande utilisée :  
 `curl http://192.168.100.10/sensitive_demo.html`
