@@ -73,7 +73,7 @@ On vérifie que la page est correctement servie par Apache côté serveur.
 
 ---
 
-# 🌍 Étape 5 - Accès distant depuis Parrot OS
+## 🌍 Étape 5 - Accès distant depuis Parrot OS
 
 On accède à la page exposée depuis la machine Parrot via le réseau interne.
 
