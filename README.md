@@ -119,7 +119,7 @@ Résultats détectés :
 ---
 
 
-## 🧠 Analyse sécurité (contexte réel)
+##  Analyse sécurité (contexte réel)
 
 Dans un environnement réel, ce type d’exposition peut provenir :
 - d’une page de test oubliée  
@@ -132,7 +132,7 @@ il suffit d’accéder à la ressource exposée et d’en analyser le contenu.
 
 ---
 
-## 🛡️ Bonnes pratiques recommandées
+##  Bonnes pratiques recommandées
 
 - supprimer immédiatement le contenu exposé  
 - révoquer et faire tourner les secrets  
