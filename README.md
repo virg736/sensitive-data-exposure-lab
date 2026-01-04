@@ -77,6 +77,11 @@ Recharge du service Apache :
 
 sudo systemctl reload apache2   
 
+<p align="center">
+  <img src="sensitive-demo-html_debian.png" alt="Création de la page HTML exposée (Debian)" width="700">
+</p>
+
+
 ---
 
 📄 Étape 4 - Test local de la page (Debian)
