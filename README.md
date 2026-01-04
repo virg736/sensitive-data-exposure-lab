@@ -61,6 +61,17 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 ---
 
+## 📊 Avancement global du projet
+
+| ID | Fonction                           | Statut   |
+|----|-----------------------------------|----------|
+| 1  | Crawler HTML récursif              | ✅ Validé |
+| 2  | Détection SQL Injection            | ✅ Validé |
+| 3  | Détection XSS                      | ✅ Validé |
+| 4  | Recherche de données sensibles     | ✅ Validé |
+| 5  | Génération de rapports (JSON / MD) | ⏳ À venir |
+
+
 # Environnement
 
 - **Client** : Parrot OS  
