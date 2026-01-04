@@ -1,11 +1,10 @@
-<h1 align="center">Sensitive Data Exposure — Environment Controlé</h1>
+<h1 align="center">Sensitive Data Exposure - Environment Controlé</h1>
 
 <p align="center">
 Exposition de données sensibles<br>
 (Parrot OS ↔ Debian / Apache)
 </p>
 
-## Sensitive Data Exposure - Environnement Controlé
 
 # Exposition de données sensibles  
 *(Parrot OS ↔ Debian / Apache)*
