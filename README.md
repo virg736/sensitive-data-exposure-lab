@@ -103,6 +103,11 @@ Commande utilisée :
 
 ➡ **Les données exposées sont accessibles depuis le réseau interne.**
 
+Commande utilisée :
+curl http://192.168.100.10/sensitive_demo.html
+
+![Accès distant depuis Parrot](curl-sensitive-demo.png)
+
 ---
 
 📄 Étape 6 - Création du script de détection (Parrot)   
