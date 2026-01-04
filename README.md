@@ -5,10 +5,6 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
 </p>
 
-https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg
-)](
-https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml
-)
 <p align="center">
   <img src="cover-sensitive-data-exposure.PNG" alt="Sensitive Data Exposure Cover" width="80%">
 </p>
