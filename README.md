@@ -1,4 +1,3 @@
-![Check passwords](https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![Check passwords (educational)](
 https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg
