@@ -71,6 +71,14 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 | 4  | Recherche de données sensibles     | ✅ Validé |
 | 5  | Génération de rapports (JSON / MD) | ⏳ À venir |
 
+## 🧭 Note importante
+
+Ce projet est structuré en **5 projets pédagogiques distincts**, chacun correspondant à une **fonctionnalité clé** du laboratoire.
+
+Les différentes étapes et fonctionnalités seront **publiées progressivement** et intégrées au dépôt GitHub au fur et à mesure de l’avancement du projet.   
+
+---
+
 
 # Environnement
 
