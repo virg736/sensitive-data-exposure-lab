@@ -17,6 +17,20 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 --- 
 
+screenshots/
+├── 01_ping_parrot_vers_debian.png
+├── 02_ping_debian_vers_parrot.png
+├── 03_apache_status_running.png
+├── 04_creation_sensitive_demo_html.png
+├── 05_test_local_curl_debian.png
+├── 06_test_curl_depuis_parrot.png
+├── 07_creation_script_sensitive_mini.png
+├── 08_verification_fichier_ls.png
+├── 09_execution_scan_resultats.png
+
+
+
+
 # Environnement
 
 - **Client** : Parrot OS  
