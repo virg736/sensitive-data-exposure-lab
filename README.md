@@ -11,62 +11,60 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 --- 
 
-##  Environnement  
+##  Environnement
 
-- **Client** : Parrot OS     
-- **Serveur** : Debian GNU/Linux + Apache2     
-- **Réseau** : privé / isolé (`192.168.x.x`)      
-- **Hyperviseur** : VirtualBox     
-
----   
-
-## Étape 1 - Vérification de la connectivité réseau   
-
-Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.   
-
-### Parrot → Debian   
-ping 192.168.100.10    
-
-Debian → Parrot    
-ping 192.168.100.20   
-
-✅ Résultat attendu : communication réseau fonctionnelle.   
-
----   
-
-## 🌐 Étape 2 - Vérification du serveur web (Debian)   
-
-On vérifie que le service Apache est actif sur la machine cible.    
-
-sudo systemctl status apache2    
-
-➡ Apache est actif et prêt à servir du contenu.    
-
----    
-
-📄 Étape 3 - Création de la page HTML exposée (Debian)   
-
-Une page HTML de démonstration est créée afin de simuler une exposition de données sensibles.    
-
-sudo nano /var/www/html/sensitive_demo.html    
-
-La page contient volontairement les éléments suivants (données factices) :    
-	•	adresse e-mail fictive    
-	•	mot de passe de démonstration   
-	•	clé AWS factice   
-	•	token GitHub factice    
-	•	numéro de carte bancaire de test    
-
-Recharge du service Apache :    
-
-sudo systemctl reload apache2  
+- **Client** : Parrot OS  
+- **Serveur** : Debian GNU/Linux + Apache2  
+- **Réseau** : privé / isolé (`192.168.x.x`)  
+- **Hyperviseur** : VirtualBox  
 
 ---
 
-📄 Étape 4 - Test local de la page (Debian)
+## Étape 1 - Vérification de la connectivité réseau
 
-On vérifie que la page est correctement servie par Apache côté serveur.   
+Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.
 
-curl http://127.0.0.1/sensitive_demo.html   
+### Parrot → Debian
+ping 192.168.100.10
 
-➡ La page est bien servie localement.   
+Debian → Parrot
+ping 192.168.100.20
+
+✅ Résultat attendu : communication réseau fonctionnelle.
+
+---
+
+## 🌐 Étape 2 — Vérification du serveur web (Debian)
+
+On vérifie que le service Apache est actif sur la machine cible.
+
+sudo systemctl status apache2
+
+➡ Apache est actif et prêt à servir du contenu.
+
+---
+
+📄 Étape 3 — Création de la page HTML exposée (Debian)
+
+Une page HTML de démonstration est créée afin de simuler une exposition de données sensibles.
+
+sudo nano /var/www/html/sensitive_demo.html
+
+La page contient volontairement les éléments suivants (données factices) :
+	•	adresse e-mail fictive
+	•	mot de passe de démonstration
+	•	clé AWS factice
+	•	token GitHub factice
+	•	numéro de carte bancaire de test
+
+Recharge du service Apache :
+
+sudo systemctl reload apache2
+
+🔍 Étape 4 — Test local de la page (Debian)
+
+On vérifie que la page est correctement servie par Apache côté serveur.
+
+curl 'http://127.0.0.1/sensitive_demo.html'
+
+➡ La page est bien servie localement.
