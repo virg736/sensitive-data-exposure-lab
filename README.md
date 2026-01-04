@@ -116,3 +116,52 @@ Résultats détectés :
 	•	token GitHub (fake)   
 	•	numéro de carte bancaire de test   
 
+---
+
+
+## 🧠 Analyse sécurité (contexte réel)
+
+Dans un environnement réel, ce type d’exposition peut provenir :
+- d’une page de test oubliée  
+- d’un fichier de debug  
+- d’une API trop verbeuse  
+- de secrets exposés côté frontend  
+
+⚠️ **Aucune exploitation avancée n’est nécessaire** :  
+il suffit d’accéder à la ressource exposée et d’en analyser le contenu.
+
+---
+
+## 🛡️ Bonnes pratiques recommandées
+
+- supprimer immédiatement le contenu exposé  
+- révoquer et faire tourner les secrets  
+- utiliser des variables d’environnement  
+- mettre en place des scans de secrets automatisés (CI/CD)  
+- réaliser des audits de sécurité réguliers  
+
+---
+
+## 🔒 Sécurité de l’environnement de test
+
+- réseau isolé  
+- aucune exposition Internet  
+- service Apache arrêté après la démonstration  
+- données strictement factices  
+
+---
+
+## ⚠️ Avertissement
+
+Projet strictement éducatif.  
+Aucune donnée réelle n’est utilisée.  
+Aucun système tiers n’a été ciblé.
+
+---
+
+## ✅ Résultat final
+
+✔ Projet publiable sur GitHub  
+✔ Lisible par recruteur ou jury  
+✔ Orientation **défensive et pédagogique**
+
