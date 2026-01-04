@@ -239,6 +239,20 @@ automatiquement**, sans aucune action ciblée.
 
 ---
 
+❓ **Que va faire le hacker concrètement ?** 
+
+Très simplement :  
+- Il voit qu’un fichier est accessible  
+- Il ouvre le fichier 
+- Il lit les informations 
+- Il peut ensuite : 
+  - les copier 
+  - les utiliser 
+  - ou les revendre 
+
+
+---
+
 ### GitHub Actions ✅ Password Check
 
 Ce projet inclut un workflow GitHub Actions exécutant un script Python
