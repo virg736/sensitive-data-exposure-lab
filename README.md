@@ -63,7 +63,7 @@ sudo systemctl reload apache2
 
 ---
 
-🔍 Étape 4 - Test local de la page (Debian)
+📄 Étape 4 - Test local de la page (Debian)
 
 On vérifie que la page est correctement servie par Apache côté serveur.
 
@@ -73,7 +73,7 @@ On vérifie que la page est correctement servie par Apache côté serveur.
 
 ---
 
-## 🌍 Étape 5 - Accès distant depuis Parrot OS
+📄 Étape 5 - Accès distant depuis Parrot OS
 
 On accède à la page exposée depuis la machine Parrot via le réseau interne.
 
@@ -84,7 +84,7 @@ Commande utilisée :
 
 ---
 
-# 🐍 Étape 6 - Création du script de détection (Parrot)
+📄 Étape 6 - Création du script de détection (Parrot)
 
 Un script Python minimaliste est créé afin d’analyser le contenu de la page web.
 
