@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover-sensitive-data-exposure.PNG" alt="Sensitive Data Exposure Cover" width="80%">
+</p>
+
 <h1 align="center">Sensitive Data Exposure - Environment Controlé</h1>
 
 <p align="center">
