@@ -65,6 +65,6 @@ sudo systemctl reload apache2
 
 On vérifie que la page est correctement servie par Apache côté serveur.
 
-
+`curl http://127.0.0.1/sensitive_demo.html`
 
 ➡ La page est bien servie localement.
