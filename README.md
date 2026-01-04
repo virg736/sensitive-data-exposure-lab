@@ -20,7 +20,7 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 ---
 
-## Étape 1 - Vérification de la connectivité réseau
+📄 Étape 1 - Vérification de la connectivité réseau
 
 Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.
 
@@ -34,7 +34,7 @@ ping 192.168.100.20
 
 ---
 
-## 🌐 Étape 2 - Vérification du serveur web (Debian)
+ 📄 Étape 2 - Vérification du serveur web (Debian)
 
 On vérifie que le service Apache est actif sur la machine cible.
 
