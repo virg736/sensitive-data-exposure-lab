@@ -190,6 +190,16 @@ Résultats détectés :
 
 ---
 
+### GitHub Actions – Password Check
+
+Ce projet inclut un workflow GitHub Actions exécutant un script Python
+de vérification de mots de passe dans un contexte CI/CD.
+
+Le script fonctionne sans interaction utilisateur et vise à démontrer
+le principe d’un contrôle automatisé de bonnes pratiques de sécurité.
+
+---
+
 ## 🧩 Mise en situation réelle
 
 Lors du développement d’une application web, une page de test est créée et placée dans le dossier public du serveur afin de faciliter les vérifications.  
