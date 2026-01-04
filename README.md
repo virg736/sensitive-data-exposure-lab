@@ -27,11 +27,6 @@ Usage pédagogique uniquement.
 
 </div>
 
-<p align="center">
-Exposition de données sensibles<br>
-(Parrot OS ↔ Debian / Apache)
-</p>
-
 ---
 
 # Objectif
