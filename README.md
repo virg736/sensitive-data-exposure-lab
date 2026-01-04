@@ -84,9 +84,10 @@ Commande utilisée :
 
 ---
 
-## 🐍 Étape 6 — Création du script de détection (Parrot)
+## 🐍 Étape 6 - Création du script de détection (Parrot)
 
 Un script Python minimaliste est créé afin d’analyser le contenu de la page web.
 
-```bash
 nano sensitive_mini.py
+
+---
