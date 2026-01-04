@@ -192,6 +192,27 @@ Résultats détectés :
 
 ---
 
+### Découverte automatisée de l’exposition
+
+Dans un environnement réel, ce type de ressource exposée n’est pas
+nécessairement découvert par un humain.
+
+Des outils automatisés (robots, scanners, crawlers) parcourent en
+permanence les réseaux et les serveurs afin de détecter :
+- des pages accessibles publiquement,
+- des fichiers oubliés,
+- des contenus contenant des données sensibles.
+
+Ces scans peuvent être réalisés :
+- par des moteurs de recherche,
+- par des outils de sécurité,
+- ou par des acteurs malveillants.
+
+Ainsi, une page de test oubliée peut être détectée **rapidement et
+automatiquement**, sans aucune action ciblée.
+
+---
+
 ### GitHub Actions ✅ Password Check
 
 Ce projet inclut un workflow GitHub Actions exécutant un script Python
