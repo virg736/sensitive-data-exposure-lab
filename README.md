@@ -145,6 +145,13 @@ Résultats détectés :
 
 ---
 
+## 🧩 Mise en situation réelle
+
+Lors du développement d’une application web, une page de test est créée et placée dans le dossier public du serveur afin de faciliter les vérifications.  
+Lors du déploiement en production, cette page n’est plus utilisée mais n’est pas supprimée.
+
+Le serveur web continuant de servir automatiquement tous les fichiers présents dans ce dossier, la page reste accessible via son URL.  
+Cette situation, fréquente en environnement réel, peut entraîner une exposition involontaire de données sensibles.
 
 ##  Analyse sécurité (contexte réel)
 
