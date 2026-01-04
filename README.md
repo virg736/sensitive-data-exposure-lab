@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml">
+    <img src="https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg" alt="Check passwords (educational)">
+  </a>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+</p>
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 [![Check passwords (educational)](
 https://github.com/virg736/sensitive-data-exposure-lab/actions/workflows/check_passwords.yml/badge.svg
