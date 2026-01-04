@@ -35,6 +35,14 @@ ping 192.168.100.20
 
 ✅ Résultat attendu : communication réseau fonctionnelle.
 
+
+<p align="center">
+  <img src="ip-configuration-debian.png" width="45%" />
+  <img src="ip-configuration-parrot.png" width="45%" />
+</p>
+
+
+
 ---
 
  📄 Étape 2 - Vérification du serveur web (Debian)
