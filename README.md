@@ -124,7 +124,7 @@ Fonctions du script :
 
 📂 Étape 7 - Vérification du script   
 
-On vérifie la présence du script dans le répertoire courant.   
+La présence du script dans le répertoire courant est vérifiée.   
 
 ls   
 
@@ -132,7 +132,7 @@ ls
 
 Le script est exécuté contre l’URL de la page exposée.   
 
-Commande utilisée :   Commande utilisée :  
+Commande utilisée :
 `python3 sensitive_mini.py (http://192.168.100.10/sensitive_demo.html)`
 
 Résultats détectés :   
