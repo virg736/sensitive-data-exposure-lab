@@ -139,6 +139,8 @@ Résultats détectés :
 	•	token GitHub (fake)   
 	•	numéro de carte bancaire de test   
 
+![Résultats du scan automatisé](parrot-sensitive-mini-scan-results.png)
+
 ---
 
 
