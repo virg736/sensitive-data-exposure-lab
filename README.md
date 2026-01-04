@@ -44,22 +44,22 @@ sudo systemctl status apache2
 
 ---
 
-📄 Étape 3 - Création de la page HTML exposée (Debian)
+📄 Étape 3 - Création de la page HTML exposée (Debian)   
 
-Une page HTML de démonstration est créée afin de simuler une exposition de données sensibles.
+Une page HTML de démonstration est créée afin de simuler une exposition de données sensibles.   
 
-sudo nano /var/www/html/sensitive_demo.html
+sudo nano /var/www/html/sensitive_demo.html   
 
-La page contient volontairement les éléments suivants (données factices) :
-	•	adresse e-mail fictive
-	•	mot de passe de démonstration
-	•	clé AWS factice
-	•	token GitHub factice
-	•	numéro de carte bancaire de test
+La page contient volontairement les éléments suivants (données factices) :   
+	•	adresse e-mail fictive   
+	•	mot de passe de démonstration   
+	•	clé AWS factice  
+	•	token GitHub factice    
+	•	numéro de carte bancaire de test      
 
-Recharge du service Apache :
+Recharge du service Apache :    
 
-sudo systemctl reload apache2
+sudo systemctl reload apache2   
 
 ---
 
