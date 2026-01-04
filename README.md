@@ -6,9 +6,6 @@ Exposition de données sensibles<br>
 </p>
 
 
-
-*(Parrot OS ↔ Debian / Apache)*
-
 # Objectif
 
 Ce projet démontre, dans un **environnement strictement contrôlé**, comment des données sensibles peuvent être **exposées involontairement** via une page web, puis **détectées automatiquement** à l’aide d’un script Python utilisant des **expressions régulières**.
