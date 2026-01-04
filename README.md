@@ -88,7 +88,7 @@ sudo systemctl reload apache2
 
 📄 Étape 4 - Test local de la page (Debian)
 
-Cette étape permet de vérifie que la page est correctement servie par Apache côté serveur.
+Cette étape permet de vérifier que la page est correctement servie par Apache côté serveur.
 
 `curl http://127.0.0.1/sensitive_demo.html`
 
@@ -98,7 +98,7 @@ Cette étape permet de vérifie que la page est correctement servie par Apache c
 
 📄 Étape 5 - Accès distant depuis Parrot OS
 
-Un accés distant à la page exposée est réalisé depuis depuis Parrot OS via le réseau interne.
+Un accés distant à la page exposée est réalisé depuis Parrot OS via le réseau interne.
 
 Commande utilisée :  
 `curl http://192.168.100.10/sensitive_demo.html`
