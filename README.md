@@ -250,6 +250,7 @@ Très simplement :
   - les utiliser 
   - ou les revendre 
 
+Dans ce contexte, aucune attaque technique n’est nécessaire pour accéder aux données. 
 
 ---
 
