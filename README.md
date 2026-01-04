@@ -91,3 +91,30 @@ Un script Python minimaliste est créé afin d’analyser le contenu de la page 
 nano sensitive_mini.py
 
 ---
+
+Fonctions du script :
+	•	téléchargement du contenu HTML
+	•	détection via expressions régulières (regex)
+	•	affichage structuré des résultats
+
+⸻
+
+📂 Étape 7 — Vérification du script
+
+On vérifie la présence du script dans le répertoire courant.
+
+ls
+
+▶️ Étape 8 — Exécution du scan automatisé
+
+Le script est exécuté contre l’URL de la page exposée.
+
+Commande utilisée :
+python3 sensitive_mini.py http://192.168.100.10/sensitive_demo.html
+
+Résultats détectés :
+	•	adresse e-mail
+	•	clé AWS (fake)
+	•	token GitHub (fake)
+	•	numéro de carte bancaire de test
+
