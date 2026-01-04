@@ -70,3 +70,23 @@ On vérifie que la page est correctement servie par Apache côté serveur.
 `curl http://127.0.0.1/sensitive_demo.html`
 
 ➡ La page est bien servie localement.
+
+---
+
+## 🌍 Étape 5 — Accès distant depuis Parrot OS
+
+On accède à la page exposée depuis la machine Parrot via le réseau interne.
+
+Commande utilisée :  
+`curl http://192.168.100.10/sensitive_demo.html`
+
+➡ **Les données exposées sont accessibles depuis le réseau interne.**
+
+---
+
+## 🐍 Étape 6 — Création du script de détection (Parrot)
+
+Un script Python minimaliste est créé afin d’analyser le contenu de la page web.
+
+```bash
+nano sensitive_mini.py
