@@ -4,6 +4,24 @@
 
 <h1 align="center">Sensitive Data Exposure - Environment Controlé</h1>
 
+<div align="center">
+
+© 2025 Virginie Lechene — Tous droits réservés  
+Reproduction interdite sans autorisation préalable.  
+Usage pédagogique uniquement.
+
+<br>
+
+<img src="https://licensebuttons.net/l/by-nd/4.0/88x31.png" alt="CC BY-ND">
+
+<br><br>
+
+<i>Image protégée — Propriété exclusive</i>
+
+</div>
+
+
+
 <p align="center">
 Exposition de données sensibles<br>
 (Parrot OS ↔ Debian / Apache)
