@@ -35,6 +35,30 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 --- 
 
+
+## 📑 Sommaire
+
+1. [Présentation du projet](#présentation-du-projet)
+2. [Objectif pédagogique](#objectif-pédagogique)
+3. [Environnement de test](#environnement-de-test)
+4. [Architecture du lab](#architecture-du-lab)
+5. [Étape 1 – Préparation de l’environnement](#étape-1--préparation-de-lenvironnement)
+6. [Étape 2 – Vérification du serveur web](#étape-2--vérification-du-serveur-web)
+7. [Étape 3 – Création de la page HTML exposée](#étape-3--création-de-la-page-html-exposée)
+8. [Étape 4 – Test local de la page](#étape-4--test-local-de-la-page)
+9. [Étape 5 – Accès distant depuis Parrot OS](#étape-5--accès-distant-depuis-parrot-os)
+10. [Étape 6 – Création du script de détection](#étape-6--création-du-script-de-détection)
+11. [Étape 7 – Vérification du script](#étape-7--vérification-du-script)
+12. [Étape 8 – Exécution du scan automatisé](#étape-8--exécution-du-scan-automatisé)
+13. [Mise en situation réelle](#mise-en-situation-réelle)
+14. [Analyse sécurité (contexte réel)](#analyse-sécurité-contexte-réel)
+15. [Bonnes pratiques recommandées](#bonnes-pratiques-recommandées)
+16. [Sécurité de l’environnement de test](#sécurité-de-lenvironnement-de-test)
+17. [Avertissement](#avertissement)
+18. [Résultat final](#résultat-final)
+
+---
+
 # Environnement
 
 - **Client** : Parrot OS  
