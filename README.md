@@ -11,7 +11,7 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 --- 
 
-## 🧪 Environnement
+##  Environnement
 
 - **Client** : Parrot OS  
 - **Serveur** : Debian GNU/Linux + Apache2  
@@ -20,16 +20,14 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 ---
 
-## 🧩 Étape 1 — Vérification de la connectivité réseau
+## Étape 1 - Vérification de la connectivité réseau
 
 Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.
 
 ### Parrot → Debian
-
 ping 192.168.100.10
 
 Debian → Parrot
-
 ping 192.168.100.20
 
-✅ Résultat attendu : communication réseau fonctionnelle, 0 % de perte de paquets.
+✅ Résultat attendu : communication réseau fonctionnelle.
