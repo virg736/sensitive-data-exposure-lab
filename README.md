@@ -89,6 +89,13 @@ Les différentes étapes et fonctionnalités seront **publiées progressivement*
 
 ---
 
+## Architecture du projet
+
+- **Debian** : serveur web réel hébergeant une ressource exposée par erreur.
+- **Parrot OS** : acteur externe automatisé (scanner, audit ou outil de sécurité) chargé de détecter passivement des données sensibles accessibles publiquement.
+
+---
+
 📄 Étape 1 - Vérification de la connectivité réseau
 
 Avant toute analyse applicative, la connectivité réseau entre les machines virtuelles est vérifiée à l’aide de requêtes ICMP.  
