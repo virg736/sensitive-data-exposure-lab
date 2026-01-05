@@ -262,12 +262,8 @@ de vérification de mots de passe dans un contexte CI/CD.
 Le script fonctionne sans interaction utilisateur et vise à démontrer
 le principe d’un contrôle automatisé de bonnes pratiques de sécurité.
 
-▶ Vérification volontairement simplifiée (liste statique)
-▶ Objectif pédagogique, pas une validation de production def is_weak(password): ...
-
-▶️ Vérification volontairement simplifiée (liste statique) 
-▶️ Objectif pédagogique, pas une validation de production 
-def is_weak(password): return password.lower() in WEAK_PASSWORDS 
+▶ Vérification volontairement simplifiée (liste statique)   
+▶ Objectif pédagogique, pas une validation de production def is_weak(password): ...   
 
 ---
 
