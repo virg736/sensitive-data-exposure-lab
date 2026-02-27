@@ -341,5 +341,5 @@ Toute utilisation non conforme est interdite et relève uniquement de la respons
 Les visuels de ce dépôt sont protégés par la licence CC BY-ND 4.0.
 Attribution obligatoire – Modification interdite.
 
-© 2025 Virginie Lechene
+© 2026 Virginie Lechene
 
