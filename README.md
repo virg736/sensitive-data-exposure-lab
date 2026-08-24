@@ -288,7 +288,7 @@ il suffit d’accéder à la ressource exposée et d’en analyser le contenu.
 
 - supprimer immédiatement le contenu exposé  
 - révoquer et faire tourner les secrets  
-- utiliser des variables d’environnement  
+- utiliser des variables d’environnement ou un gestionnaire de secrets côté serveur    
 - mettre en place des scans de secrets automatisés (CI/CD)  
 - réaliser des audits de sécurité réguliers  
 
