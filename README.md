@@ -70,7 +70,7 @@ Toutes les données utilisées sont **fictives** et destinées **uniquement à l
 
 Ce projet est structuré en **5 projets pédagogiques distincts**, chacun correspondant à une **fonctionnalité clé** du laboratoire.
 
-Les différentes étapes et fonctionnalités seront **publiées progressivement** et intégrées au dépôt GitHub au fur et à mesure de l’avancement du projet.   
+Les différentes étapes et fonctionnalités sont intégrées au dépôt GitHub et documentent les différents volets pédagogiques du laboratoire.
 
 ---
 
@@ -86,8 +86,8 @@ Les différentes étapes et fonctionnalités seront **publiées progressivement*
 
 ## Architecture du projet
 
-- **Debian** : serveur web réel hébergeant une ressource exposée par erreur.
-- **Parrot OS** : acteur externe automatisé (scanner, audit ou outil de sécurité) chargé de détecter passivement des données sensibles accessibles publiquement.
+- **Debian** : serveur web de laboratoire hébergeant une ressource volontairement exposée pour la démonstration.
+- **Parrot OS** : machine cliente de test exécutant un outil automatisé chargé de détecter des données sensibles accessibles sur le serveur web du laboratoire.
 
 ---
 
