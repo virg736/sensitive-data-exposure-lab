@@ -255,7 +255,9 @@ Le script fonctionne sans interaction utilisateur et vise à démontrer
 le principe d’un contrôle automatisé de bonnes pratiques de sécurité.
 
 ▶ Vérification volontairement simplifiée (liste statique)   
-▶ Objectif pédagogique, pas une validation de production def is_weak(password): ...   
+▶ Objectif pédagogique, pas une validation de production    
+
+def is_weak(password): ...      
 
 ---
 
