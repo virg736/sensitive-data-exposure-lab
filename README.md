@@ -143,10 +143,6 @@ La page contient volontairement les éléments suivants (données factices) :
 	•	token GitHub factice    
 	•	numéro de carte bancaire de test      
 
-Vérification locale de la page :
-
-`curl http://127.0.0.1/sensitive_demo.html`
-
 <p align="center">
   <img src="sensitive-demo-html_debian.png" alt="Création de la page HTML exposée (Debian)" width="700">
 </p>
