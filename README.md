@@ -97,13 +97,13 @@ Avant toute analyse applicative, la connectivité réseau entre les machines vir
 
 ➡ICMP est un protocole réseau utilisé pour tester la connectivité entre deux machines, notamment via la commande `ping`.   
 
-### Parrot → Debian
-ping 192.168.100.10
+### Parrot → Debian   
+ping 192.168.100.10   
 
-Debian → Parrot
-ping 192.168.100.20
+Debian → Parrot   
+ping 192.168.100.20   
 
-✅ Résultat attendu : communication réseau fonctionnelle.
+✅ Résultat obtenu  : communication réseau fonctionnelle.
 
 
 <p align="center">
